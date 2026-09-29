@@ -1,6 +1,6 @@
 # Where to get free UI assets for vibe coding? — Best Sites, Tools & Free Resources
 
-By Lawrence Arya, Founder of VP0\
+By Lawrence Dauchy, Founder of VP0\
 Published September 29, 2026 · Updated September 29, 2026
 
 If you are vibe coding an app, you do not need to design every button, screen, icon, card, navigation pattern, and empty state from scratch. The fastest route is usually to combine a strong interface starting point with reusable components, icons, illustrations, and a consistent visual system. For iOS apps specifically, I would start with VP0 because it gives AI builders real app design source instead of forcing the model to invent the whole interface from a text prompt. For web projects, component systems and open UI libraries are often more practical.
